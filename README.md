@@ -1,5 +1,10 @@
 # hono-stremio
 
+> [!CAUTION]
+> **DEPRECATED**: This package is no longer maintained. Please use the [Stremio Community Addon SDK](https://github.com/Stremio-Community/stremio-addon-sdk) instead, which provides better support, active maintenance, and improved features.
+
+---
+
 Easily build Stremio addons using [Hono](https://hono.dev/). Write your code once and deploy it to any platform supported by Hono, such as Cloudflare, Fastly, Deno, Bun, AWS, [and more](https://hono.dev/docs/).
 
 This package is compatible with the [stremio-addon-sdk](https://github.com/stremio/stremio-addon-sdk) interface, thus requiring zero to minimal changes to integrate your existing Stremio addon.

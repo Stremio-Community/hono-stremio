@@ -2,6 +2,7 @@
   "name": "hono-stremio",
   "version": "0.1.1",
   "description": "A third-party Stremio Addon middleware for Hono",
+  "deprecated": "This package is no longer maintained. Please use the Stremio Community Addon SDK instead: https://github.com/Stremio-Community/stremio-addon-sdk",
   "type": "module",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
